@@ -20,7 +20,7 @@ Me encuentro en búsqueda de poder seguir ayudando a las empresas en la transfor
 ## 🛠 Frameworks y herramientas
 
 
-💻 Git, Spring Boot, Java, React, Html 5, Css 3, TypeScript, MongoDB, Express, Nextjs, MySQL, PostgreSQL
+💻 Git, Spring Boot, Java, React, Html 5, Css 3, TypeScript, MongoDB, Express, NestJs, MySQL, PostgreSQL
 
 📊 Power BI, Tableau, DataStudio
 
